@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Chart of Accounts with Parent and Levels and Auto Account Code",
+    'name': "Accounting with Parent Account and Levels and Auto Account Code",
     'version': '11.0.1.0',
     'author': 'Select Solutions',
     'company': 'Select Solutions',
