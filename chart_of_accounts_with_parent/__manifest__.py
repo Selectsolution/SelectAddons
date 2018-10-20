@@ -4,7 +4,7 @@
     'version': '11.0.1.0',
     'author': 'Select Solutions',
     'company': 'Select Solutions',
-    'website': "http://www.select-online.net",
+    'website': "http://select-online.net",
     'category': 'Accounting',
     'summary': """Chart of Accounts As Leveling Accounting with parent and child """,
     'description': """Account Chart As Egypt Accounting with parent and child ,Also Accounts Levels and with Auto Account Code """,
