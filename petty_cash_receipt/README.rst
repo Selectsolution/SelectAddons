@@ -32,7 +32,7 @@ Usage
 
 For further information, please visit:
 
- * https://www.clearict.com
+ * http://select-online.net
 
 Credits
 =======
@@ -47,11 +47,11 @@ Maintainer
 
 .. image:: sucros-clear-it-plc_logo.png
    :alt: Sucros Clear Information Technologies PLC
-   :target: http://www.clearict.com
+   :target: http://select-online.net
 
 This module is maintained by Sucros Clear Information Technologies PLC
 
 We are the premier implementer of Odoo in Ethiopia. Our mission is to enable
 organizations to use technology to meet their business goals.
 
-To contribute to this module, please visit http://github.com/clearict/odoo-addons.
+
