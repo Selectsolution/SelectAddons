@@ -29,29 +29,3 @@ Usage
 * The accountant reconciles the petty cash vouchers against receipts presented by the custodian
 * After the reconciliation process a journal entry will be posted to Accounts Payable 
 * For fund closing all vouchers must be reconciled beforehand and a journal entry is posted to Accounts Receivable
-
-For further information, please visit:
-
- * http://select-online.net
-
-Credits
-=======
-
-Contributors
-------------
-
-* Michael Telahun <miket@clearict.com>
-
-Maintainer
-----------
-
-.. image:: sucros-clear-it-plc_logo.png
-   :alt: Sucros Clear Information Technologies PLC
-   :target: http://select-online.net
-
-This module is maintained by Sucros Clear Information Technologies PLC
-
-We are the premier implementer of Odoo in Ethiopia. Our mission is to enable
-organizations to use technology to meet their business goals.
-
-
